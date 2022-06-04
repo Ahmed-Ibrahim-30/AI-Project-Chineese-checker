@@ -13,6 +13,7 @@ Java <br>
 
 <h1>Representation Of Board ?</h1> <br>
 
+![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png)
 
 <h1>any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
@@ -23,5 +24,3 @@ Then PC Play With Concept Alpha Beta Algorithm.<br>
 
 <h1>Description for the heuristic ?</h1><br>
 Find The different Distance For All Murples And Choose The Distance That Achieve Levels Board.<br>
-
-![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png)
