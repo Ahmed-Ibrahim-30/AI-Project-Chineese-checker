@@ -13,7 +13,7 @@ Java <br>
 
 <h1>Representation Of Board ?</h1> <br>
 
-                                                        <p align="center">- - - - - - - - - - - - R - - - - - - - - - - - -</p>
+                                                        <p align="center">- - - - - - - - - - - - R - - - - - - - - - - - -</p><br>
                                                         <p align="center">- - - - - - - - - - - R - R - - - - - - - - - - -</p>
                                                         <p align="center">- - - - - - - - - - R - R - R - - - - - - - - - -</p>
                                                         <p align="center">- - - - - - - - - R - R - H - R - - - - - - - - -</p>
