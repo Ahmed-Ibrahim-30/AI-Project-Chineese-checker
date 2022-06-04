@@ -7,29 +7,12 @@
   20190247 => Samaa Khalifa Elsayed           => samaakhalifa93@gmail.com <br>
   20190592 => Noura Ashraf AbdElnaby          => nourraasshhraf@gmail.com <br>
     
-
+    
 <h1>which programming language is used ?</h1> <br>
 Java <br>
 
 <h1>Representation Of Board ?</h1> <br>
-
-                                         ['B'],
-                                       ['B','B'],
-                                     ['B','B','B'],
-                                   ['B','B','B','B'],
-                  ['W','W','W','W','W','W','W','W','W','W','W','W','W'],
-                     ['W','W','W','W','W','W','W','W','W','W','W','W'],
-                       ['W','W','W','W','W','W','W','W','W','W','W'],
-                         ['W','W','W','W','W','W','W','W','W','W'],
-                           ['W','W','W','W','W','W','W','W','W'],
-                         ['W','W','W','W','W','W','W','W','W','W'],
-                       ['W','W','W','W','W','W','W','W','W','W','W'],
-                     ['W','W','W','W','W','W','W','W','W','W','W','W'],
-                  ['W','W','W','W','W','W','W','W','W','W','W','W','W'],
-                                   ['R','R','R','R'],
-                                     ['R','R','R'],
-                                       ['R','R'],
-                                         ['R']
+![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png)
 
 <h1>any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
