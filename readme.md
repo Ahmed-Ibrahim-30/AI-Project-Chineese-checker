@@ -13,23 +13,23 @@ Java <br>
 
 <h1>Representation Of Board ?</h1> <br>
 
-                                                        <p align="center">- - - - - - - - - - - - R - - - - - - - - - - - -</p><br>
-                                                        <p align="center">- - - - - - - - - - - R - R - - - - - - - - - - -</p>
-                                                        <p align="center">- - - - - - - - - - R - R - R - - - - - - - - - -</p>
-                                                        <p align="center">- - - - - - - - - R - R - H - R - - - - - - - - -</p>
-                                                        <p align="center">W - W - W - W - W - W - W - W - W - W - W - W - W</p>
-                                                        <p align="center">- W - W - W - W - W - W - W - W - W - W - W - W -</p>
-                                                        <p align="center">- - W - W - W - W - W - R - W - W - W - W - W - -</p>
-                                                        <p align="center">- - - W - W - W - W - W - W - W - W - W - W - - -</p>
-                                                        <p align="center">- - - - W - W - W - W - W - W - W - W - W - - - -</p>
-                                                        <p align="center">- - - W - W - W - W - G - G - W - W - W - W - - -</p>
-                                                        <p align="center">- - W - W - W - W - G - R - G - W - W - W - W - -</p>
-                                                        <p align="center">- W - W - W - W - W - G - W - W - W - W - W - W -</p>
-                                                        <p align="center">W - W - W - W - W - W - W - W - W - W - W - W - W</p>
-                                                        <p align="center">- - - - - - - - - G - G - G - G - - - - - - - - -</p>
-                                                        <p align="center">- - - - - - - - - - G - G - G - - - - - - - - - -</p>
-                                                        <p align="center">- - - - - - - - - - - G - G - - - - - - - - - - -</p>
-                                                        <p align="center">- - - - - - - - - - - - G - - - - - - - - - - - -</p>
+                                       <p align="center">- - - - - - - - - - - - R - - - - - - - - - - - -
+                                                         - - - - - - - - - - - R - R - - - - - - - - - - -
+                                                        - - - - - - - - - - R - R - R - - - - - - - - - -
+                                                        - - - - - - - - - R - R - H - R - - - - - - - - -
+                                                        W - W - W - W - W - W - W - W - W - W - W - W - W
+                                                        - W - W - W - W - W - W - W - W - W - W - W - W -
+                                                        - - W - W - W - W - W - R - W - W - W - W - W - -
+                                                        - - - W - W - W - W - W - W - W - W - W - W - - -
+                                                        - - - - W - W - W - W - W - W - W - W - W - - - -
+                                                        - - - W - W - W - W - G - G - W - W - W - W - - -
+                                                        - - W - W - W - W - G - R - G - W - W - W - W - -
+                                                        - W - W - W - W - W - G - W - W - W - W - W - W -
+                                                        W - W - W - W - W - W - W - W - W - W - W - W - W
+                                                        - - - - - - - - - G - G - G - G - - - - - - - - -
+                                                        - - - - - - - - - - G - G - G - - - - - - - - - -
+                                                        - - - - - - - - - - - G - G - - - - - - - - - - -
+                                                        - - - - - - - - - - - - G - - - - - - - - - - - -</p>
 
 <h1>Any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
