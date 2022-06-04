@@ -18,7 +18,7 @@ Java <br>
 <h1>Any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
 The User Choose The Level (Easy-Medium-Hard),<br>
-Then User Choose The Murple Than He Need Move it,<br>
+Then User Choose The Murple That He Need Move it,<br>
 Then The GUI Show The All Available Moves And Hopes That User Choose One Position To Move To,<br>
 Then PC Play With Concept Alpha Beta Algorithm.<br>
 
