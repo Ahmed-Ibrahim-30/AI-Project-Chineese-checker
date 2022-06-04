@@ -12,7 +12,7 @@
 Java <br>
 
 <h1>Representation Of Board ?</h1> <br>
-![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png)
+![This is an image]([https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png])
 
 <h1>any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
