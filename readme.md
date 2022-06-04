@@ -15,7 +15,7 @@ Java <br>
 
 ![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/Representation.png)
 
-<h1>any special instructions to run the project ?</h1> <br>
+<h1>Any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
 The User Choose The Level (Easy-Medium-Hard),<br>
 Then User Choose The Murple Than He Need Move it,<br>
