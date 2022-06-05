@@ -11,12 +11,6 @@
 <h1>which programming language is used ?</h1> <br>
 Java <br>
 
-
-
-
-<h1>Representation Of Board ?</h1> <br>
-                        ![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
-
 <h1>Any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
 The User Choose The Level (Easy-Medium-Hard),<br>
@@ -26,5 +20,8 @@ Then PC Play With Concept Alpha Beta Algorithm.<br>
 
 <h1>Description for the heuristic ?</h1><br>
 Find The different Distance For All Murples And Choose The Distance That Achieve Levels Board.<br>
+
+<h1>Representation Of Board ?</h1> <br>
+ ![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
 
 
