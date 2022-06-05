@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,10 +9,9 @@ public class Player {
 
     public ArrayList<ArrayList<Character>> Triangle; //win
 
-    public Player(int Num)
+    public Player(int Num,Board B)
     {
         Triangle = new ArrayList<>();
-        Board B = Board.getInstance();
         if (Num == 1)
         {
             Triangle.add(B.MainBoard.get(16));
