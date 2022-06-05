@@ -13,26 +13,9 @@ Java <br>
 
 
 
-![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
-<h1>Representation Of Board ?</h1> <br>
 
-                                    - - - - - - - - - - - - R - - - - - - - - - - - -
-                                    - - - - - - - - - - - R - R - - - - - - - - - - -
-                                    - - - - - - - - - - R - R - R - - - - - - - - - -
-                                    - - - - - - - - - R - R - H - R - - - - - - - - -
-                                    W - W - W - W - W - W - W - W - W - W - W - W - W
-                                    - W - W - W - W - W - W - W - W - W - W - W - W -
-                                    - - W - W - W - W - W - R - W - W - W - W - W - -
-                                    - - - W - W - W - W - W - W - W - W - W - W - - -
-                                    - - - - W - W - W - W - W - W - W - W - W - - - -
-                                    - - - W - W - W - W - G - G - W - W - W - W - - -
-                                    - - W - W - W - W - G - R - G - W - W - W - W - -
-                                    - W - W - W - W - W - G - W - W - W - W - W - W -
-                                    W - W - W - W - W - W - W - W - W - W - W - W - W
-                                    - - - - - - - - - G - G - G - G - - - - - - - - -
-                                    - - - - - - - - - - G - G - G - - - - - - - - - -
-                                    - - - - - - - - - - - G - G - - - - - - - - - - -
-                                    - - - - - - - - - - - - G - - - - - - - - - - - -
+<h1>Representation Of Board ?</h1> <br>
+                        ![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
 
 <h1>Any special instructions to run the project ?</h1> <br>
 Just Run It,<br>
