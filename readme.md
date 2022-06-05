@@ -22,6 +22,7 @@ Then PC Play With Concept Alpha Beta Algorithm.<br>
 Find The different Distance For All Murples And Choose The Distance That Achieve Levels Board.<br>
 
 <h1>Representation Of Board ?</h1> <br>
+
 ![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
 
 
