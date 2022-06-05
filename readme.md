@@ -41,7 +41,7 @@ Then User Choose The Murple That He Need Move it,<br>
 Then The GUI Show The All Available Moves And Hopes That User Choose One Position To Move To,<br>
 Then PC Play With Concept Alpha Beta Algorithm.<br>
 
-![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame.gif?raw=true)
-
 <h1>Description for the heuristic ?</h1><br>
 Find The different Distance For All Murples And Choose The Distance That Achieve Levels Board.<br>
+
+![This is an image](https://github.com/NouraAshraff/AI-Project-Chineese-checker/blob/master/chinessgame_explain.gif?raw=true)
